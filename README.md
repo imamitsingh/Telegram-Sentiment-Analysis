@@ -35,7 +35,7 @@ Perform sentiment analysis on telegram chat messages.
 
 ### Instructions to run the code in order to reproduce the results
 - Download and install [Jupyter notebook](https://jupyter.org/install)
-- Python 3.6 or above required.
+- [Python 3.6+](https://www.python.org/downloads/) required.
 - Install all the packages mentioned in the [requirements.txt](https://github.com/imamitsingh/Telegram-Sentiment-Analysis/blob/main/requirements.txt) file using the pip3 command
 ```
     pip3 install "package-name"
