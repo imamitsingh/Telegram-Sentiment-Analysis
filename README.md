@@ -40,6 +40,7 @@ Perform sentiment analysis on telegram chat messages.
 ```
     pip3 install "package-name"
 ```
+- Download the [ipython notebook](https://github.com/imamitsingh/Telegram-Sentiment-Analysis/blob/main/MindsChallenge.ipynb) and run each cell to get reproduce results.
 
 
 ### References
