@@ -10,7 +10,7 @@ Perform sentiment analysis on telegram chat messages.
 
 ### Data Preprocessing 
 - Load json data into a dataframe.
-- Only 2 features are relevant here to fulfil our objective. Hence, filter Date and Text features from the dataframe.
+- Only 2 features are relevant here to fulfill our objective. Hence, filter Date and Text features from the dataframe.
 - Perform some basic text preprocessing steps on the text data:
 	- Convert the words to lowercase.
 	- Decontraction of some english words (won't -> will not, can't to cannot).
