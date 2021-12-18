@@ -38,7 +38,7 @@ Perform sentiment analysis on telegram chat messages.
 - Python 3.6 or above required.
 - Install all the packages mentioned in the [requirements.txt](https://github.com/imamitsingh/Telegram-Sentiment-Analysis/blob/main/requirements.txt) file using the pip3 command
 ```
-    - pip3-install [package-name]
+    pip3 install "package-name"
 ```
 
 
