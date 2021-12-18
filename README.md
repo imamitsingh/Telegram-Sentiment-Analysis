@@ -4,7 +4,7 @@
 Perform sentiment analysis on telegram chat messages.
 
 ### Data Collection
-- Exported chat messages from the official telegram group of Crypto.com (https://t.me/CryptoComOfficial) from May 1, 2021 to May 15, 2021.
+- Exported chat messages from the official telegram group of [Crypto.com](https://t.me/CryptoComOfficial) from May 1, 2021 to May 15, 2021.
 - The chat message data is in JSON format.
 - [result.json](https://github.com/imamitsingh/Telegram-Sentiment-Analysis/blob/main/result.json) contains the chat data. File size is 11.3 MB.
 
