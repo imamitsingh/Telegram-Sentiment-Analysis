@@ -34,9 +34,9 @@ Perform sentiment analysis on telegram chat messages.
 - Plot #2: [Average sentiment per day](https://github.com/imamitsingh/Telegram-Sentiment-Analysis/blob/main/Plot_2_Avg_sentiment_per_day.png)
 
 ### Instructions to run the code in order to reproduce the results
-- Download and install [Jupyter notebook](https://jupyter.org/install)
+- Download and install [Jupyter notebook](https://jupyter.org/install).
 - [Python 3.6+](https://www.python.org/downloads/) required.
-- Install all the packages mentioned in the [requirements.txt](https://github.com/imamitsingh/Telegram-Sentiment-Analysis/blob/main/requirements.txt) file using the pip3 command
+- Install all the packages mentioned in the [requirements.txt](https://github.com/imamitsingh/Telegram-Sentiment-Analysis/blob/main/requirements.txt) file using the pip3 command.
 ```
     pip3 install "package-name"
 ```
