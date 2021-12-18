@@ -1,7 +1,7 @@
 # Telegram Sentiment Analysis
 
 ### Objective
-Perform sentiment analysis on telegram chat data.
+Perform sentiment analysis on telegram chat messages.
 
 ### Data Collection
 - Exported chat messages from the official telegram group of Crypto.com (https://t.me/CryptoComOfficial) from May 1, 2021 to May 15, 2021.
