@@ -3,3 +3,4 @@ numpy==1.20.1
 plotly==5.4.0
 tqdm==4.59.0
 json==0.9.5
+flair==0.10
